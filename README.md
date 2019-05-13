@@ -1,2 +1,2 @@
-# graaljs-with-npm
-This demonstrate using npm package with graaljs
+# Graajs with NPM packages
+This repository demonstrate the use of npm packages with graaljs.
